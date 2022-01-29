@@ -1,0 +1,12 @@
+body {
+    background: lightblue;
+}
+
+
+h1 {
+    border: 3px solid green;
+    outline: #83eb9a solid 10px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
